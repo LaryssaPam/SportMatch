@@ -11,7 +11,7 @@ class Sport extends Model
     protected $fillable = [
         'id_sport',
         'name',
-        'description',
+        'descripti
 
 
     ];
